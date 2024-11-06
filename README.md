@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LeenSkaf
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning: machine learning, fusion360
+- 🌱 I’m currently learning: data mining, fusion360
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me misoleen47@gmail.com
 - 😄 Pronouns: She/her
